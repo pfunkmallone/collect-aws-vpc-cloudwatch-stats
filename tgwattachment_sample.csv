@@ -1,0 +1,10 @@
+Attachment ID,TransitGateway ID,Resource Type,Resource ID,BytesIn,BytesOut,PacketsIn (Count),PacketsOut (Count),PacketDropCountBlackhole (Count),PacketDropCountNoRoute (Count)
+tgw-1bd1f8b3-8cef-4965-b2fd-e7029d0c0636-vpc-0051e8c97ac896974,tgw-01ccbf16de70f1c91,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-1bd1f8b3-8cef-4965-b2fd-e7029d0c0636-vpc-0c01527cee4d50478,tgw-01ccbf16de70f1c91,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-1bd1f8b3-8cef-4965-b2fd-e7029d0c0636-vpc-003bdaf84d7ba8279,tgw-01ccbf16de70f1c91,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-1bd1f8b3-8cef-4965-b2fd-e7029d0c0636-vpc-07bb9a6c5400fc3c6,tgw-01ccbf16de70f1c91,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-1bd1f8b3-8cef-4965-b2fd-e7029d0c0636-vpc-0645adec04d4f3e6b,tgw-01ccbf16de70f1c91,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-sdwan01-vpc,tgw-0371fe29c71bf9bcf,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+sdwan-dx-vpc-attmnt,tgw-06fd7ae0ea0fa9385,vpc,vpc-xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-attach-030c581923463d819,tgw-0371fe29c71bf9bcf,direct-connect-gateway,xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
+tgw-attach-0010552c8ee467d8a,tgw-06fd7ae0ea0fa9385,direct-connect-gateway,xxxxxxxxxxxxxxxxxx,0,0,0,0,0,0
