@@ -57,7 +57,7 @@ def setup_logging():
 setup_logging()
 
 # set default values
-allowed_services = ["lambda", "ec2", "rds", "alb", "nlb", "apigateway", "tgw", 'tgwattachment']
+allowed_services = ["lambda", "ec2", "rds", "alb", "nlb", "apigateway", "tgw", "tgwattachment"]
 use_profile = False
 region = "ap-southeast-1"
 
