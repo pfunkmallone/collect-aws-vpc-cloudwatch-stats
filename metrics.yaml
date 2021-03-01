@@ -485,8 +485,3 @@ metrics_to_be_collected:
       "namespace": "AWS/TransitGateway"
       "unit": "Count"
       "dimension_name": "TransitGatewayAttachment"
-    
-    
-    
-    
-    
